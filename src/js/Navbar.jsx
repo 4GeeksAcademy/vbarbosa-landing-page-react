@@ -3,7 +3,7 @@ import '../styles/index.css'
 
 export default function Navbar() {
     return (
-        <div className="container-fluid mb-4 m-0 p-0 navbarStyle">
+        <div className="container-fluid mb-4 m-0 p-0">
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-2">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">Start Bootstrap</a>
