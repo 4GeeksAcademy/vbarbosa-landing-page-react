@@ -6,7 +6,7 @@ import FooterWeb from "./FooterWeb";
 import HomeContainer from "./HomeContainer";
 import Navbar from "./Navbar";
 
-export default function HomeTab(){
+export default function Home(){
     return (
         <div className="container-fluid p-0">
             <Navbar/>
