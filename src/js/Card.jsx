@@ -1,7 +1,7 @@
 // index.css'
 import '../styles/index.css'
 
-export default function Card() {
+export const Card = () =>{
     return (
         <div className="card text-center mb-3">
             <img src="https://picsum.photos/500/325?random=1" className="card-img-top" alt="..."></img>

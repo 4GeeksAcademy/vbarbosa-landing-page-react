@@ -2,10 +2,10 @@
 import '../styles/index.css'
 
 //components
-import Jumbotron from "./Jumbotron";
-import Card from "./Card";
+import {Jumbotron} from "./Jumbotron";
+import {Card} from "./Card";
 
-export default function HomeContainer() {
+export const HomeContainer = () => {
     return (
         <div className="container w-85">
             <div className="row">

@@ -2,11 +2,11 @@
 import '../styles/index.css'
 
 //components
-import FooterWeb from "./FooterWeb";
-import HomeContainer from "./HomeContainer";
-import Navbar from "./Navbar";
+import {FooterWeb} from "./FooterWeb";
+import {HomeContainer} from "./HomeContainer";
+import {Navbar} from "./Navbar";
 
-export default function Home(){
+export const Home = () =>{
     return (
         <div className="container-fluid p-0">
             <Navbar/>

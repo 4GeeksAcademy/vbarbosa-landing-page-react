@@ -1,7 +1,7 @@
 // index.css'
 import '../styles/index.css'
 
-export default function FooterWeb() {
+export const FooterWeb = () => {
     return (
 
         <div className="container-fluid mt-2 m-0 p-4 bg-dark">

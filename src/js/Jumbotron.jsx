@@ -1,7 +1,7 @@
 // index.css'
 import '../styles/index.css'
 
-export default function Jumbotron() {
+export const Jumbotron = () => {
     return (
         <div className="card text-dark bg-light mb-3">
             <div className="card-body py-5">
