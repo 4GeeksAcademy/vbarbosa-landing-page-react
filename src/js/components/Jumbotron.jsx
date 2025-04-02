@@ -1,6 +1,3 @@
-// index.css'
-import '../styles/index.css'
-
 export const Jumbotron = () => {
     return (
         <div className="card text-dark bg-light mb-3">

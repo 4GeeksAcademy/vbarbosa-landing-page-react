@@ -1,6 +1,3 @@
-// index.css'
-import '../styles/index.css'
-
 export const Navbar = () => {
     return (
         <div className="container-fluid mb-4 m-0 p-0">

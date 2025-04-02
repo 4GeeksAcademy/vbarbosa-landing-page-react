@@ -1,6 +1,3 @@
-// index.css'
-import '../styles/index.css'
-
 //components
 import {Jumbotron} from "./Jumbotron";
 import {Card} from "./Card";

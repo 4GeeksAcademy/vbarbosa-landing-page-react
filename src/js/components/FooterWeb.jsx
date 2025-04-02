@@ -1,5 +1,3 @@
-// index.css'
-import '../styles/index.css'
 
 export const FooterWeb = () => {
     return (
